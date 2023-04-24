@@ -1,8 +1,8 @@
 
-## Olá! Eu sou Maike Simoncini 💻 
+## Olá! Eu sou Maike Simoncini. 
 
-Desenvolvedor de Software, cursando ADS pela UNINTER.
-Buscando conhecimento e adquirindo habilidades back-end para bons resultados. 
+<p>Desenvolvedor de Software, cursando ADS pela UNINTER.</p>
+<p>Buscando conhecimento e adquirindo habilidades back-end para bons resultados.</p>
 
  ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
  ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
