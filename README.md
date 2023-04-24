@@ -9,7 +9,7 @@ Buscando conhecimento e adquirindo habilidades back-end para bons resultados.
  ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) 
 
 
- ![Maike Simoncini GitHub stats](https://github-readme-stats.vercel.app/api?username=Maike-Simoncini&show_icons=true&theme=dark)
+ ![Maike Simoncini GitHub stats](https://github-readme-stats.vercel.app/api?username=Maike-Simoncini&show_icons=true&theme=default)
 
 <div>
 <a href="mailto:maikesimoncinims@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
