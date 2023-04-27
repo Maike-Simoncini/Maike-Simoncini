@@ -1,5 +1,5 @@
 
-## Olá! Eu sou Maike Simoncini 👋
+## Olá! Sou Maike Simoncini 👋
 
 Desenvolvedor Back-end.
 
@@ -8,9 +8,9 @@ Desenvolvedor Back-end.
  ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) 
 
 
- ![Maike Simoncini GitHub stats](https://github-readme-stats.vercel.app/api?username=Maike-Simoncini&show_icons=true&theme=dark)
+ ![Maike Simoncini GitHub stats](https://github-readme-stats.vercel.app/api?username=Maike-Simoncini&show_icons=true&theme=white)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Maike-Simoncini&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+ ![Maike Simoncini GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=Maike-Simoncini&show_icons=true&locale=en&layout=compact)
 
 <div>
 <a href="mailto:maikesimoncinims@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
