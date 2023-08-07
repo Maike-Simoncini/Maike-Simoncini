@@ -1,8 +1,10 @@
 # Olá! Sou Maike Simoncini!
 
-- Cursando Análise e Desenvolvimento de Sistemas.
-- Procurando uma oportunidade como desenvolvedor.
-
+- 💻
+  Cursando Análise e Desenvolvimento de Sistemas.
+- 💼
+  Procurando uma oportunidade como desenvolvedor.
+  
 ### Desenvolvedor:
 
  ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
@@ -10,8 +12,8 @@
  ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) 
  ![PYTHON](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
- <!--![Maike Simoncini](https://github-readme-stats.vercel.app/api?username=Maike-Simoncini&show_icons=true&theme=white)-->
- <!--![Maike Simoncini GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=Maike-Simoncini&show_icons=true&locale=en&layout=compact)-->
+| <a href="https://github.com/Maike-Simoncini/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Maike-Simoncini&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/Maike-Simoncini/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maike-Simoncini&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 ### Contato:
 
