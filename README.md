@@ -1,7 +1,6 @@
-## Oi eu sou Maike Simoncini, amante de programação e tecnologia!
+## Oi eu sou Maike Desenvolvedor Back-end, amante de programação e tecnologia!
 <div>
-Cursando Análise e Desenvolvimento de Sistemas na UNINTER.
-
+Cursando Análise e Desenvolvimento de Sistemas na UNINTER.<br>
 Procurando uma oportunidade como desenvolvedor na área de programação.
 </div>
 
