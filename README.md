@@ -1,9 +1,9 @@
-## Oi eu sou Maike Simoncni, Desenvolvedor Back-end!
+## Oi eu sou Maike Simoncni!
 <div>
 ❤️
   Amante de programação e tecnologia.<br>
 📚
-  Cursando Análise e Desenvolvimento de Sistemas na UNINTER.<br>
+  Cursando ADS na UNINTER.<br>
 💻
   Buscando conhecimento e adquirindo habilidades como desenvolvedor para bons resultados.
 </div>
