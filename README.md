@@ -21,5 +21,4 @@
 </Div>
 <br>
 
-## Procurando uma oportunidade como desenvolvedor na área de programação.
-
+##
