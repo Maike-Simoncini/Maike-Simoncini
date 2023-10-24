@@ -1,4 +1,4 @@
-## Olá, sou Maike Simoncni! 
+## Olá, sou Maike Simoncini! 
 
 <Div>
 ❤️
@@ -9,8 +9,7 @@
   Procurando uma oportunidade como desenvolvedor na área de programação.
 </Div>
 
-###  Software Developer!
-<br>
+##  Software Developer!
 
 <div style="exibição: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
