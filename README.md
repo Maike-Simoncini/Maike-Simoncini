@@ -1,9 +1,9 @@
-## Oi sou Maike Simoncni da Silva, Software Developer!
+## Olá, sou Maike Simoncni, Software Developer!
 <Div>
 ❤️
-  Amante de programação e tecnologia.<br>
+  Amante de música, programação e tecnologia.<br>
 📚
-  Cursando Análise e Desenvolvimento de Sistemas na UNINTER.<br>
+  Cursando Análise e Desenvolvimento de Sistemas (UNINTER).<br>
 💻
   Procurando uma oportunidade como desenvolvedor na área de programação.
 </Div>
