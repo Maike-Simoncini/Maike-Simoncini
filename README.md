@@ -1,11 +1,7 @@
-## Olá, sou Maike Simoncni! 
-<
+## Olá, sou Maike Simoncni! Software Developer!
 
-<div style="color: blue">
-Software Developer!
-</Div>
 
-<Div text-align: "center">
+<Div>
 ❤️
   Amante de música, programação e tecnologia.<br>
 📚
