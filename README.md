@@ -8,8 +8,7 @@
 💻
   Procurando uma oportunidade como desenvolvedor na área de programação.
 </Div>
-
-##
+<br>
 
 ##  Software Developer!
 
