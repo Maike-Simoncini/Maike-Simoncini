@@ -6,7 +6,7 @@
 📚
   Cursando Análise e Desenvolvimento de Sistemas (UNINTER).<br>
 💻
-  Procurando uma oportunidade como desenvolvedor na área de programação.
+  Objetivo: Aplicar meus conhecimentos e habilidades para contribuir com projetos inovadores.
 </p><br>
   
   <h2 align="center"> Software Developer!</h2>
