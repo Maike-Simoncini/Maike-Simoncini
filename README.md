@@ -2,7 +2,7 @@
 
 <p align="center">
 ❤️
-  Sou <strong>Maike Simoncini<strong> gosto de programação e tecnologia.<br>
+  Sou <strong>Maike Simoncini</strong> gosto de programação e tecnologia.<br>
 📚
   Cursando Análise e Desenvolvimento de Sistemas (UNINTER).<br>
 💻
