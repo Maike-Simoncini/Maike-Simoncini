@@ -1,8 +1,8 @@
-<h1 align="center">Olá, sou Maike Simoncini! </h1>
+<h1 align="center">Bem-Vindo! </h1>
 
 <p align="center">
 ❤️
-  Amante de música, programação e tecnologia.<br>
+  Sou Maike Simoncini gosto de programação e tecnologia.<br>
 📚
   Cursando Análise e Desenvolvimento de Sistemas (UNINTER).<br>
 💻
@@ -17,7 +17,6 @@
   <img align="center" alt="figma" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="figma" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="figma" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="figma" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" >
   </p>
 </Div><br>
 
