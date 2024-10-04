@@ -1,15 +1,23 @@
+<p align="center"><img src="https://i.imgur.com/YKjM0ap.gif" alt="CL Thumb" border="0" width="67%"></p>
+
 # Olá! 👋 Eu sou Maike
+
 <p>Sou desenvolvedor de software apaixonado por tecnologia e pela criação de soluções inovadoras.<br>
   Sempre buscando aprender e explorar novas ferramentas e técnicas para aprimorar minhas habilidades e criar soluções eficientes.<br>
   Cursando Análise e Desenvolvimento de Sistemas (UNINTER).<br>
-  Aqui no meu GitHub, você encontrará alguns dos projetos em que trabalhei, que incluem desde pequenas aplicações pessoais até contribuições para projetos open-source.</p><br>
+  Sinta-se à vontade para explorar meus repositórios, colaborar em algum projeto ou apenas trocar ideias sobre desenvolvimento!</p>
 
 # 📚 Interesses
-<p>Desenvolvimento Web e Mobile
-DevOps e automação
-Machine Learning e Inteligência Artificial
-Sinta-se à vontade para explorar meus repositórios e entrar em contato se quiser colaborar em algum projeto ou apenas trocar ideias sobre desenvolvimento!</p><br>
+
+<tr><td>
   
+- Desenvolvimento Web e Mobile
+  
+- DevOps e Automação
+
+- Machine Learning e Inteligência Artificial
+</td></tr>
+
 # 💻 Experiência
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
@@ -76,24 +84,29 @@ Sinta-se à vontade para explorar meus repositórios e entrar em contato se quis
         <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
       <br>VsCode
     </td>
-</table><br>
+</table>
 </div>
 
 # 📊 Estatística
 <div>
   <p align="center">
   <a href="[https://github.com/Maike-Simoncini](https://github.com/Maike-Simoncini)"> 
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Maike-Simoncini&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maike-Simoncini&layout=compact&langs_count=16&theme=tokyonight"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Maike-Simoncini&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maike-Simoncini&layout=compact&langs_count=16&theme=tokyonight"/>
   </p>
-</div><br>
+</div>
 
 # 🌐 Contato
-<Div>
-  <p align="center">
+<Div align="center">
+  <p ><br>
   <a href="https://wa.me/35999860709" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a >
   <a href=mailto:maikesimoncinims@gmail.com target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a >
   <a href="https://www.linkedin.com/in/maike-simoncini-da-silva-9769b2287" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></ um>
-  </p>
+  </p> 
 </Div>
+
+#
+<p align="center">
+<a href="https://gist.github.com/PrinceGoblinTech"><br>
+  <img src="https://profile-counter.glitch.me/{Maike-Simoncini}/count.svg" alt="PrinceGoblinTech :: Visitor's Count" /></a></p>
