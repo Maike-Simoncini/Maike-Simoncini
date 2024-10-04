@@ -1,26 +1,85 @@
-<h1 align="center">Bem-Vindo! </h1>
-
-<p align="center">
-❤️
-  Sou <strong>Maike Simoncini</strong> gosto de programação e tecnologia.<br>
-📚
+# Olá! 👋 Eu sou Maike
+<p>Sou desenvolvedor de software apaixonado por tecnologia e pela criação de soluções inovadoras.<br>
+  Sempre buscando aprender e explorar novas ferramentas e técnicas para aprimorar minhas habilidades e criar soluções eficientes.<br>
   Cursando Análise e Desenvolvimento de Sistemas (UNINTER).<br>
-💻
-  Objetivo: Aplicar meus conhecimentos e habilidades para contribuir com projetos inovadores.
-</p><br>
-  
-  <h2 align="center"> Software Developer!</h2>
-<div style="exibição: inline_block">
-  <p align="center">
-  <img align="center" alt="figma" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" >
-  <img align="center" alt="figma" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" >         
-  <img align="center" alt="figma" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="figma" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="figma" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  </p>
-</Div><br>
+  Aqui no meu GitHub, você encontrará alguns dos projetos em que trabalhei, que incluem desde pequenas aplicações pessoais até contribuições para projetos open-source.</p><br>
 
-  <h2 align="center">Estatística!</h2>
+# 📚 Interesses
+<p>Desenvolvimento Web e Mobile
+DevOps e automação
+Machine Learning e Inteligência Artificial
+Sinta-se à vontade para explorar meus repositórios e entrar em contato se quiser colaborar em algum projeto ou apenas trocar ideias sobre desenvolvimento!</p><br>
+  
+# 💻 Experiência
+<div style="display: flex; align-items: flex-start; align: center">
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
+      <br>C++
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
+      <br>AWS
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
+      <br>C#
+    </td>
+  </tr>
+  
+  <tr>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
+      <br>Github
+    </td>
+    <td align="center" width="96"> 
+        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+      <br>HTML5
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
+      <br>CSS
+    </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+      <br>MongoDB
+    </td>
+        <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
+      <br>Nodejs
+      </td>
+      </td>
+            <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
+      <br>VsCode
+    </td>
+</table><br>
+</div>
+
+# 📊 Estatística
 <div>
   <p align="center">
   <a href="[https://github.com/Maike-Simoncini](https://github.com/Maike-Simoncini)"> 
@@ -29,7 +88,7 @@
   </p>
 </div><br>
 
-  <h2 align="center"> Contato!</h2>
+# 🌐 Contato
 <Div>
   <p align="center">
   <a href="https://wa.me/35999860709" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a >
