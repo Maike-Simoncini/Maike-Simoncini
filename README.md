@@ -110,3 +110,7 @@
 <p align="center">
 <a href="https://gist.github.com/PrinceGoblinTech"><br>
   <img src="https://profile-counter.glitch.me/{Maike-Simoncini}/count.svg" alt="PrinceGoblinTech :: Visitor's Count" /></a></p>
+
+# Contribuições
+
+![snake gif](https://github.com/Maike-Simoncini/Maike-Simoncini/blob/output/github-contribution-grid-snake.svg)
