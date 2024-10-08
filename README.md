@@ -110,3 +110,9 @@
 <p align="center">
 <a href="https://gist.github.com/PrinceGoblinTech"><br>
   <img src="https://profile-counter.glitch.me/{Maike-Simoncini}/count.svg" alt="PrinceGoblinTech :: Visitor's Count" /></a></p>
+
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Maike-Simoncini/Maike-Simoncini/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Maike-Simoncini/Maike-Simoncini/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Maike-Simoncini/Maike-Simoncini/output/github-contribution-grid-snake.svg">
+</picture>
