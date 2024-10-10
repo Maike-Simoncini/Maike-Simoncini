@@ -113,5 +113,5 @@
 
 # Contribuições
 
-![snake gif](https://github.com/Maike-Simoncini/Maike-Simoncini/blob/output/github-contribution-grid-snake.svg)
-
+<br clear="both">
+<img src="https://raw.githubusercontent.com/Maike-Simoncini/Maike-Simoncini/output/snake.svg" alt="Snake animation" />
