@@ -3,8 +3,8 @@
 # Olá! 👋 Eu sou Maike
 
 <p>Sou desenvolvedor de software apaixonado por tecnologia e pela criação de soluções inovadoras.<br>
-  Sempre buscando aprender e explorar novas ferramentas e técnicas para aprimorar minhas habilidades e criar soluções eficientes.<br>
-  Sinta-se à vontade para explorar meus repositórios, colaborar em algum projeto ou apenas trocar ideias sobre desenvolvimento!</p>
+  Sempre buscando aprender e explorar novas ferramentas e técnicas para aprimorar minhas habilidades.<br>
+  Sinta-se à vontade para explorar meus repositórios ou trocar ideias sobre desenvolvimento!</p>
 
 # 📚 Interesses
 
@@ -105,11 +105,12 @@
   </p> 
 </Div>
 
-#
-<p align="center">
-<a href="https://gist.github.com/PrinceGoblinTech"><br>
-  <img src="https://profile-counter.glitch.me/{Maike-Simoncini}/count.svg" alt="PrinceGoblinTech :: Visitor's Count" /></a></p>
-
 # Contribuições
 
 <img src="https://raw.githubusercontent.com/Maike-Simoncini/Maike-Simoncini/output/snake.svg" alt="Snake animation" />
+
+# Visualizações
+
+<p align="center">
+<a href="https://gist.github.com/PrinceGoblinTech"><br>
+  <img src="https://profile-counter.glitch.me/{Maike-Simoncini}/count.svg" alt="PrinceGoblinTech :: Visitor's Count" /></a></p>
