@@ -4,7 +4,6 @@
 
 <p>Sou desenvolvedor de software apaixonado por tecnologia e pela criação de soluções inovadoras.<br>
   Sempre buscando aprender e explorar novas ferramentas e técnicas para aprimorar minhas habilidades e criar soluções eficientes.<br>
-  Cursando Análise e Desenvolvimento de Sistemas (UNINTER).<br>
   Sinta-se à vontade para explorar meus repositórios, colaborar em algum projeto ou apenas trocar ideias sobre desenvolvimento!</p>
 
 # 📚 Interesses
@@ -113,5 +112,4 @@
 
 # Contribuições
 
-<br clear="both">
 <img src="https://raw.githubusercontent.com/Maike-Simoncini/Maike-Simoncini/output/snake.svg" alt="Snake animation" />
