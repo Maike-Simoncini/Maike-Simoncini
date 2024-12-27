@@ -1,4 +1,4 @@
-<p align="center"><img src="https://i.imgur.com/YKjM0ap.gif" alt="CL Thumb" border="0" width="80%"></p>
+<p align="center"><img src="https://i.imgur.com/YKjM0ap.gif" alt="CL Thumb" border="0" width="100%"></p>
 
 # Bem-Vindo ao meu perfil!
 
