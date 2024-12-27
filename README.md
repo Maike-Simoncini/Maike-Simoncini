@@ -1,8 +1,8 @@
 <p align="center"><img src="https://i.imgur.com/YKjM0ap.gif" alt="CL Thumb" border="0" width="80%"></p>
 
-# Olá! 👋 Eu sou Maike
+# Bem-Vindo ao meu perfil!
 
-<p>Sou desenvolvedor de software apaixonado por tecnologia e pela criação de soluções inovadoras.<br>
+<p>Olá, eu sou Maike desenvolvedor apaixonado por tecnologia e pela criação de soluções inovadoras.<br>
   Sempre buscando aprender e explorar novas ferramentas e técnicas para aprimorar minhas habilidades.<br>
   Sinta-se à vontade para explorar meus repositórios!</p>
 
