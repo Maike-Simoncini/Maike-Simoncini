@@ -101,7 +101,7 @@
 <div>
   <p align="center">
   <a href="[https://github.com/Maike-Simoncini](https://github.com/Maike-Simoncini)"> 
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Maike-Simoncini&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Maike-Simoncini&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maike-Simoncini&layout=compact&langs_count=16&theme=tokyonight"/>
   </p>
 </div>
