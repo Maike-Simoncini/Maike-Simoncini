@@ -24,6 +24,7 @@ href="https://wa.me/35999860709" target="_blank"><img src="https://img.shields.i
   
 ## 📚 Experiências
 
+<Div align="center">
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
   <tr>
@@ -101,6 +102,7 @@ href="https://wa.me/35999860709" target="_blank"><img src="https://img.shields.i
     </td>
 </tr>
 </table>
+</div>
 </div>
 
 ## 🔧 Contribuições
