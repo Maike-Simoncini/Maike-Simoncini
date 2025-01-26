@@ -21,6 +21,7 @@ href="https://wa.me/35999860709" target="_blank"><img src="https://img.shields.i
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></ um>
   </p> 
 </Div>
+
   
 ## 📚 Experiências
 
@@ -103,11 +104,7 @@ href="https://wa.me/35999860709" target="_blank"><img src="https://img.shields.i
 </tr>
 </table>
 </div>
-</div>
 
-## 🔧 Contribuições
-
-<img src="https://raw.githubusercontent.com/Maike-Simoncini/Maike-Simoncini/output/snake.svg" alt="Snake animation" />
 
 ## 📊 Estatística
 
@@ -115,9 +112,16 @@ href="https://wa.me/35999860709" target="_blank"><img src="https://img.shields.i
   <p align="center">
   <a href="[https://github.com/Maike-Simoncini](https://github.com/Maike-Simoncini)"> 
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Maike-Simoncini&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maike-Simoncini&layout=compact&langs_count=16&theme=tokyonight"/>
   </p>
 </div>
+
+
+## 🔧 Contribuições
+
+<img src="https://raw.githubusercontent.com/Maike-Simoncini/Maike-Simoncini/output/snake.svg" alt="Snake animation" />
+
 
 ## 👤 Visualizações
 
