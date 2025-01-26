@@ -2,29 +2,15 @@
 
 # Bem-vindo ao Meu Repositório GitHub! 👋
 
-<p>Olá, desenvolvedor(a)!</p>
+Olá, desenvolvedor!
 
-<p>
 Seja muito bem-vindo ao meu espaço no GitHub, onde a paixão pelo desenvolvimento web ganha vida. Aqui você encontrará uma coleção dos meus projetos mais desafiadores e inovadores, abrangendo tanto o front-end quanto o back-end.
-</p>
 
-## 💻 **Front-end:** 
-
-<p>
-De interfaces de usuário elegantes e responsivas a animações interativas, minhas habilidades com HTML, CSS e JavaScript estão à sua disposição. Explore como utilizo frameworks modernos como React e Vue.js para criar experiências web incríveis.
-</p>
+💻 **Front-end:** De interfaces de usuário elegantes e responsivas a animações interativas, minhas habilidades com HTML, CSS e JavaScript estão à sua disposição. Explore como utilizo frameworks modernos como React e Vue.js para criar experiências web incríveis.
   
-## 🔧 **Back-end:** 
-
-<p>
-Mergulhe no lado servidor, onde a magia realmente acontece. Desde arquiteturas de microserviços até APIs robustas, você verá meu trabalho com Node.js, Python, e bancos de dados como MongoDB e PostgreSQL.
-</p>
+🔧 **Back-end:** Mergulhe no lado servidor, onde a magia realmente acontece. Desde arquiteturas de microserviços até APIs robustas, você verá meu trabalho com Node.js, Python, e bancos de dados como MongoDB e PostgreSQL.
   
-## 🛠 **DevOps:** 
-
-<p>
-Mas não paramos por aí! A integração contínua e a entrega contínua (CI/CD) são essenciais para manter a qualidade e a eficiência. Veja como utilizo ferramentas como Docker, Kubernetes e GitHub Actions para automatizar e otimizar o ciclo de vida do desenvolvimento.
-</p>
+🛠 **DevOps:** Mas não paramos por aí! A integração contínua e a entrega contínua (CI/CD) são essenciais para manter a qualidade e a eficiência. Veja como utilizo ferramentas como Docker, Kubernetes e GitHub Actions para automatizar e otimizar o ciclo de vida do desenvolvimento.
   
 ## 📚 Experiência
 
@@ -137,6 +123,4 @@ href="https://wa.me/35999860709" target="_blank"><img src="https://img.shields.i
 <a href="https://gist.github.com/PrinceGoblinTech"><br>
   <img src="https://profile-counter.glitch.me/{Maike-Simoncini}/count.svg" alt="PrinceGoblinTech :: Visitor's Count" /></a></p>
   
-<p>
-Obrigado por visitar meu repositório. Vamos construir algo incrível juntos! 🚀
-</p>
+**Obrigado por visitar meu repositório. Vamos construir algo incrível juntos!** 🚀
