@@ -36,7 +36,7 @@ Obrigado por visitar meu repositório. Vamos construir algo incrível juntos! �
         <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
       <br>C++
     </td>
-    </tr>
+  </tr>
   <tr>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
@@ -53,8 +53,8 @@ Obrigado por visitar meu repositório. Vamos construir algo incrível juntos! �
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
       <br>Github
-    </td>
- </tr>
+  </td>
+  </tr>
      <tr>
     <td align="center" width="96"> 
         <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
@@ -106,8 +106,9 @@ Obrigado por visitar meu repositório. Vamos construir algo incrível juntos! �
 # 🌐 Contato
 <Div align="center">
   <p ><br>
-  <a href="https://wa.me/35999860709" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a >
   <a href=mailto:maikesimoncinims@gmail.com target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a >
+  <a 
+href="https://wa.me/35999860709" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a >
   <a href="https://www.linkedin.com/in/maike-simoncini-da-silva-9769b2287" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></ um>
   </p> 
