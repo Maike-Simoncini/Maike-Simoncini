@@ -25,11 +25,8 @@ Mergulhe no lado servidor, onde a magia realmente acontece. Desde arquiteturas d
 <p>
 Mas não paramos por aí! A integração contínua e a entrega contínua (CI/CD) são essenciais para manter a qualidade e a eficiência. Veja como utilizo ferramentas como Docker, Kubernetes e GitHub Actions para automatizar e otimizar o ciclo de vida do desenvolvimento.
 </p>
-<p>
-Obrigado por visitar meu repositório. Vamos construir algo incrível juntos! 🚀
-</p>
   
-# 📚 Experiência
+## 📚 Experiência
 
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
@@ -110,7 +107,7 @@ Obrigado por visitar meu repositório. Vamos construir algo incrível juntos! �
 </table>
 </div>
 
-# 📊 Estatística
+## 📊 Estatística
 <div>
   <p align="center">
   <a href="[https://github.com/Maike-Simoncini](https://github.com/Maike-Simoncini)"> 
@@ -119,7 +116,7 @@ Obrigado por visitar meu repositório. Vamos construir algo incrível juntos! �
   </p>
 </div>
 
-# 🌐 Contato
+## 🌐 Contato
 <Div align="center">
   <p ><br>
   <a href=mailto:maikesimoncinims@gmail.com target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a >
@@ -130,12 +127,16 @@ href="https://wa.me/35999860709" target="_blank"><img src="https://img.shields.i
   </p> 
 </Div>
 
-# Contribuições
+## Contribuições
 
 <img src="https://raw.githubusercontent.com/Maike-Simoncini/Maike-Simoncini/output/snake.svg" alt="Snake animation" />
 
-# Visualizações
+## Visualizações
 
 <p align="center">
 <a href="https://gist.github.com/PrinceGoblinTech"><br>
   <img src="https://profile-counter.glitch.me/{Maike-Simoncini}/count.svg" alt="PrinceGoblinTech :: Visitor's Count" /></a></p>
+  
+<p>
+Obrigado por visitar meu repositório. Vamos construir algo incrível juntos! 🚀
+</p>
