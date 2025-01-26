@@ -1,21 +1,18 @@
 <p align="center"><img src="https://i.imgur.com/YKjM0ap.gif" alt="CL Thumb" border="0" width="100%"></p>
 
-# Bem-Vindo ao meu perfil!
+# Bem-vindo ao Meu Repositório GitHub! 👋
 
-<p>Olá, eu sou Maike desenvolvedor apaixonado por tecnologia e pela criação de soluções inovadoras.<br>
-  Sempre buscando aprender e explorar novas ferramentas e técnicas para aprimorar minhas habilidades.<br>
-  Sinta-se à vontade para explorar meus repositórios!</p>
+Olá, desenvolvedor(a)!
 
-# 📚 Interesses
+Seja muito bem-vindo ao meu espaço no GitHub, onde a paixão pelo desenvolvimento web ganha vida. Aqui você encontrará uma coleção dos meus projetos mais desafiadores e inovadores, abrangendo tanto o front-end quanto o back-end.
 
-<tr><td>
-  
-- Desenvolvimento Web e Mobile
-  
-- DevOps e Automação
+💻 **Front-end:** De interfaces de usuário elegantes e responsivas a animações interativas, minhas habilidades com HTML, CSS e JavaScript estão à sua disposição. Explore como utilizo frameworks modernos como React e Vue.js para criar experiências web incríveis.
 
-- Machine Learning e Inteligência Artificial
-</td></tr>
+🔧 **Back-end:** Mergulhe no lado servidor, onde a magia realmente acontece. Desde arquiteturas de microserviços até APIs robustas, você verá meu trabalho com Node.js, Python, e bancos de dados como MongoDB e PostgreSQL.
+
+🛠 **DevOps:** Mas não paramos por aí! A integração contínua e a entrega contínua (CI/CD) são essenciais para manter a qualidade e a eficiência. Veja como utilizo ferramentas como Docker, Kubernetes e GitHub Actions para automatizar e otimizar o ciclo de vida do desenvolvimento.
+
+Obrigado por visitar meu repositório. Vamos construir algo incrível juntos! 🚀
 
 # 💻 Experiência
 <div style="display: flex; align-items: flex-start; align: center">
