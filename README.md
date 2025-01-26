@@ -20,10 +20,8 @@ href="https://wa.me/35999860709" target="_blank"><img src="https://img.shields.i
   <a href="https://www.linkedin.com/in/maike-simoncini-da-silva-9769b2287" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></ um>
   </p> 
-</Div>
 
 
-<Div align="center">
 ## 📚 Experiências
 
 <div style="display: flex; align-items: flex-start; align: center">
