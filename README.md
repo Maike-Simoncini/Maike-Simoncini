@@ -5,15 +5,13 @@
 Olá, desenvolvedor!
 
 Seja muito bem-vindo ao meu espaço no GitHub, onde a paixão pelo desenvolvimento web ganha vida. Aqui você encontrará uma coleção dos meus projetos mais desafiadores e inovadores, abrangendo tanto o front-end quanto o back-end.
-
---
+---
 
 💻 **Front-end:** De interfaces de usuário elegantes e responsivas a animações interativas, minhas habilidades com HTML, CSS e JavaScript estão à sua disposição. Explore como utilizo frameworks modernos como React e Vue.js para criar experiências web incríveis.
   
 🔧 **Back-end:** Mergulhe no lado servidor, onde a magia realmente acontece. Desde arquiteturas de microserviços até APIs robustas, você verá meu trabalho com Node.js, Python, e bancos de dados como MongoDB e PostgreSQL.
   
 🛠 **DevOps:** Mas não paramos por aí! A integração contínua e a entrega contínua (CI/CD) são essenciais para manter a qualidade e a eficiência. Veja como utilizo ferramentas como Docker, Kubernetes e GitHub Actions para automatizar e otimizar o ciclo de vida do desenvolvimento.
-
 ---
   
 ## 📚 Experiência
@@ -96,7 +94,6 @@ Seja muito bem-vindo ao meu espaço no GitHub, onde a paixão pelo desenvolvimen
 </tr>
 </table>
 </div>
-
 ---
 
 ## 📊 Estatística
@@ -107,7 +104,6 @@ Seja muito bem-vindo ao meu espaço no GitHub, onde a paixão pelo desenvolvimen
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maike-Simoncini&layout=compact&langs_count=16&theme=tokyonight"/>
   </p>
 </div>
-
 ---
 
 ## 🌐 Contato
@@ -120,13 +116,11 @@ href="https://wa.me/35999860709" target="_blank"><img src="https://img.shields.i
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></ um>
   </p> 
 </Div>
-
 ---
 
 ## 🔧Contribuições
 
 <img src="https://raw.githubusercontent.com/Maike-Simoncini/Maike-Simoncini/output/snake.svg" alt="Snake animation" />
-
 ---
 
 ## 👤Visualizações
@@ -134,7 +128,6 @@ href="https://wa.me/35999860709" target="_blank"><img src="https://img.shields.i
 <p align="center">
 <a href="https://gist.github.com/PrinceGoblinTech"><br>
   <img src="https://profile-counter.glitch.me/{Maike-Simoncini}/count.svg" alt="PrinceGoblinTech :: Visitor's Count" /></a></p>
-
 ---
   
-<p align="center">**Obrigado por visitar meu repositório. Vamos construir algo incrível juntos!** 🚀</p>
+<p align="center">Obrigado por visitar meu repositório. Vamos construir algo incrível juntos! 🚀</p>
