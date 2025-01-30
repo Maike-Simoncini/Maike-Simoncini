@@ -107,19 +107,19 @@ href="https://wa.me/35999860709" target="_blank"><img src="https://img.shields.i
 ## 📊 Estatística
 
 <div>
-  <p align="center">
+  <p centenas>
   
   <img 
     height="200" 
     alt="Github Stats"
-    align="left"
+    align="center"
     style="padding-right: 10px;"
 src="https://github-readme-stats.vercel.app/api?username=Maike-Simoncini&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
   <img 
     height="200" 
     alt="Github Stats"
-    align="left" 
+    align="ce44" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maike-Simoncini&layout=compact&langs_count=16&theme=tokyonight"/>
   </p>
 </div>
