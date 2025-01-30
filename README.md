@@ -66,37 +66,37 @@ href="https://wa.me/35999860709" target="_blank"><img src="https://img.shields.i
   </tr>
      <tr>
     <td align="center" width="96"> 
-        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
+        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="45" height="45" alt="Git" />
       <br>Git
     </td>
     <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+        <img src="https://skillicons.dev/icons?i=html" width="45" height="45" alt="HTML5" />
       <br>HTML5
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
+        <img src="https://skillicons.dev/icons?i=css" width="45" height="45" alt="css" />
       <br>CSS
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+        <img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="MongoDB" />
       <br>MongoDB
     </td>
         </tr>
    <tr>
      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
+        <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="Nodejs" />
       <br>Nodejs
       </td>
          <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
+        <img src="https://skillicons.dev/icons?i=vscode" width="45" height="45" alt="VsCode" />
       <br>VsCode
     </td>
        <td align="center" width="96">
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="48" alt="canva logo" />
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="45" alt="canva logo" />
    <br>Canva
       </td>
      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="48" alt="figma logo" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="45" alt="figma logo" />
       <br>Figma
     </td>
 </tr>
@@ -107,7 +107,7 @@ href="https://wa.me/35999860709" target="_blank"><img src="https://img.shields.i
 ## 📊 Estatística
 
 <div>
-  <p>
+  <p align="center">
   
   <img 
     height="200" 
