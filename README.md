@@ -117,10 +117,10 @@ href="https://wa.me/35999860709" target="_blank"><img src="https://img.shields.i
 src="https://github-readme-stats.vercel.app/api?username=Maike-Simoncini&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
   <img 
-    height="200" 
+    height="210" 
     alt="Github Stats"
     align="left" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maike-Simoncini&layout=compact&langs_count=5&theme=tokyonight"/>
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maike-Simoncini&layout=compact&langs_count=16&theme=tokyonight"/>
   </p>
 </div>
 
