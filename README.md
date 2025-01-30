@@ -108,7 +108,7 @@ href="https://wa.me/35999860709" target="_blank"><img src="https://img.shields.i
 
 <div>
   <p>
-  <a href="[https://github.com/Maike-Simoncini](https://github.com/Maike-Simoncini)"> 
+  
   <img 
     height="200" 
     alt="Github Stats"
@@ -117,7 +117,7 @@ href="https://wa.me/35999860709" target="_blank"><img src="https://img.shields.i
 src="https://github-readme-stats.vercel.app/api?username=Maike-Simoncini&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
   <img 
-    height="210" 
+    height="200" 
     alt="Github Stats"
     align="left" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maike-Simoncini&layout=compact&langs_count=16&theme=tokyonight"/>
