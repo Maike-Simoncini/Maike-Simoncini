@@ -103,6 +103,27 @@ href="https://wa.me/35999860709" target="_blank"><img src="https://img.shields.i
 </table>
 </div>
 
+# Tecnologias Utilizadas
+
+| Tecnologia | Icone |
+|------------|-------|
+| React      | ![React](https://techstack-generator.vercel.app/react-icon.svg) |
+| Python     | ![Python](https://techstack-generator.vercel.app/python-icon.svg) |
+| JavaScript | ![JavaScript](https://techstack-generator.vercel.app/js-icon.svg) |
+| C++        | ![C++](https://techstack-generator.vercel.app/cpp-icon.svg) |
+| MySQL      | ![MySQL](https://techstack-generator.vercel.app/mysql-icon.svg) |
+| AWS        | ![AWS](https://techstack-generator.vercel.app/aws-icon.svg) |
+| C#         | ![C#](https://techstack-generator.vercel.app/csharp-icon.svg) |
+| GitHub     | ![GitHub](https://techstack-generator.vercel.app/github-icon.svg) |
+| Git        | ![Git](https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png) |
+| HTML5      | ![HTML5](https://techstack-generator.vercel.app/react-icon.svg)0 |
+| CSS        | ![CSS](https://techstack-generator.vercel.app/react-icon.svg)1 |
+| MongoDB    | ![MongoDB](https://techstack-generator.vercel.app/react-icon.svg)2 |
+| Node.js    | ![https://techstack-generator.vercel.app/react-icon.svg)4](https://skillicons.dev/icons?i=nodejs) |
+| VsCode     | ![VsCode](https://techstack-generator.vercel.app/react-icon.svg)6 |
+| Canva      | ![Canva](https://techstack-generator.vercel.app/react-icon.svg)7 |
+| Figma      | ![Figma](https://techstack-generator.vercel.app/react-icon.svg)8 |
+
 
 ## 📊 Estatística
 
