@@ -1,6 +1,19 @@
 <p align="center"><img src="https://i.imgur.com/YKjM0ap.gif" alt="CL Thumb" border="0" width="100%"></p>
 
+# Bem-vindo ao Meu Repositório GitHub! 👋
 
+Olá, desenvolvedor! 🎉
+
+Prepare-se para mergulhar em um universo onde a paixão pelo desenvolvimento web se transforma em realidade! Este é o meu espaço no GitHub, um verdadeiro laboratório de ideias e inovações. Aqui, você encontrará uma coleção dos meus projetos mais desafiadores, cada um deles uma aventura única que abrange tanto o front-end quanto o back-end.
+
+## 💻 Front-end:  
+Desperte seus sentidos! Aqui, criei interfaces de usuário que não são apenas elegantes, mas também interativas e responsivas. Com HTML, CSS e JavaScript como minhas armas, eu trago à vida experiências web incríveis, utilizando frameworks modernos como React e Vue.js. Pronto para ver como a magia acontece?
+
+## 🔧 Back-end:  
+Agora, vamos para o lado oculto da força! Mergulhe no lado servidor, onde a verdadeira magia acontece. Desde arquiteturas de microserviços que dançam em harmonia até APIs robustas que conectam tudo, você vai descobrir como utilizo Node.js, Python e bancos de dados como MongoDB e PostgreSQL para criar soluções que realmente fazem a diferença.
+
+## 🛠 **DevOps:**  
+E não pense que a aventura termina aqui! A integração contínua e a entrega contínua (CI/CD) são essenciais para garantir que a qualidade e a eficiência estejam sempre em alta. Explore como utilizo ferramentas como Docker, Kubernetes e GitHub Actions para automatizar e otimizar cada etapa do ciclo de vida do desenvolvimento. É aqui que a mágica se transforma em realidade!
 
 <Div align="center">
   <p ><br>
@@ -10,21 +23,6 @@ href="https://wa.me/35999860709" target="_blank"><img src="https://img.shields.i
   <a href="https://www.linkedin.com/in/maike-simoncini-da-silva-9769b2287" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></ um>
   </p> 
-
-**Bem-vindo ao Meu Repositório GitHub! 👋**
-
-Olá, desenvolvedor! 🎉
-
-Prepare-se para mergulhar em um universo onde a paixão pelo desenvolvimento web se transforma em realidade! Este é o meu espaço no GitHub, um verdadeiro laboratório de ideias e inovações. Aqui, você encontrará uma coleção dos meus projetos mais desafiadores, cada um deles uma aventura única que abrange tanto o front-end quanto o back-end.
-
-💻 **Front-end:**  
-Desperte seus sentidos! Aqui, criei interfaces de usuário que não são apenas elegantes, mas também interativas e responsivas. Com HTML, CSS e JavaScript como minhas armas, eu trago à vida experiências web incríveis, utilizando frameworks modernos como React e Vue.js. Pronto para ver como a magia acontece?
-
-🔧 **Back-end:**  
-Agora, vamos para o lado oculto da força! Mergulhe no lado servidor, onde a verdadeira magia acontece. Desde arquiteturas de microserviços que dançam em harmonia até APIs robustas que conectam tudo, você vai descobrir como utilizo Node.js, Python e bancos de dados como MongoDB e PostgreSQL para criar soluções que realmente fazem a diferença.
-
-🛠 **DevOps:**  
-E não pense que a aventura termina aqui! A integração contínua e a entrega contínua (CI/CD) são essenciais para garantir que a qualidade e a eficiência estejam sempre em alta. Explore como utilizo ferramentas como Docker, Kubernetes e GitHub Actions para automatizar e otimizar cada etapa do ciclo de vida do desenvolvimento. É aqui que a mágica se transforma em realidade!
 
 ## 📚 Experiências
 
