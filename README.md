@@ -1,8 +1,8 @@
+<Div align="center">
+  
 # Tecnólogo em Análise e Desenvolvimento de Sistemas
   
 Prepare-se para mergulhar em um universo onde a paixão pelo desenvolvimento web se transforma em realidade! Este é o meu espaço no GitHub, um verdadeiro laboratório de ideias e inovações. Aqui, você encontrará uma coleção dos meus projetos mais desafiadores, cada um deles uma aventura única que abrange tanto o front-end quanto o back-end.
-
-<Div align="center">
   <p ><br>
   <a href=mailto:maikesimoncinims@gmail.com target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a >
 <a href="https://maike-simoncini.github.io/Portfolio-Maike/" target="_blank">
