@@ -2,7 +2,7 @@
 
 Prepare-se para mergulhar em um universo onde a paixão pelo desenvolvimento web se transforma em realidade! Este é o meu espaço no GitHub, um verdadeiro laboratório de ideias e inovações. Aqui, você encontrará uma coleção dos meus projetos mais desafiadores, cada um deles uma aventura única que abrange tanto o front-end quanto o back-end.
 
-<p align="center"><img src="https://i.imgur.com/YKjM0ap.gif" alt="CL Thumb" border="0" width="50%"></p>
+<p align="center"><img src="https://i.imgur.com/YKjM0ap.gif" alt="CL Thumb" border="0" width="90%"></p>
 
   <p align="center">
   <a href=mailto:maikesimoncinims@gmail.com target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a >
@@ -12,9 +12,10 @@ Prepare-se para mergulhar em um universo onde a paixão pelo desenvolvimento web
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></ um>
   </p>
 
-#
 
-### Tecnologias 🚀
+
+<h2 align="center"> Tecnologias 🚀</h2> 
+
 
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
@@ -67,9 +68,9 @@ Prepare-se para mergulhar em um universo onde a paixão pelo desenvolvimento web
 </table>
 </div>
 
-#
+<h2 align="center"> Ferramentas 🛠️</h2> 
 
-### Ferramentas 🛠️
+
 
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
@@ -98,16 +99,31 @@ Prepare-se para mergulhar em um universo onde a paixão pelo desenvolvimento web
   </table>
 </div>
 
-#
+<h2 align="center"> Estatística 📊</h2> 
 
-### Estatística 📊
 
-<div>
-  <p centenas>
-  <img 
+<div align="center">
+  <p centena >
+  
+  <img  
+    height="200" 
+    alt="Github Stats"
+    align="center"
+    style="padding-right: 10px;"
+src="https://github-readme-stats.vercel.app/api?username=Maike-Simoncini&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+  <img  
     height="200" 
     alt="Github Stats"
     align="ce44" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maike-Simoncini&layout=compact&langs_count=16&theme=tokyonight"/>
   </p>
+</div>
+
+<h2 align="center"> 🔧 Contribuições</h2> 
+
+<div align="center">
+<img align="center" src="https://raw.githubusercontent.com/Maike-Simoncini/Maike-Simoncini/output/snake.svg" alt="Snake animation" />
+</div>
+<p align="center">Obrigado por visitar meu repositório. Vamos construir algo incrível juntos! 🚀</p>
 </div>
