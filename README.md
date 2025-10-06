@@ -15,7 +15,6 @@ Sou Tecnólogo em Análise e Desenvolvimento de Sistemas, com uma base sólida e
 
 <img height="200" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maike-Simoncini&layout=compact&langs_count=16&theme=tokyonight"/>
 
-## 📌 Contato 
+## 📌 Links 
   
 <a href="https://www.linkedin.com/in/maike-simoncini-da-silva-9769b2287" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-
