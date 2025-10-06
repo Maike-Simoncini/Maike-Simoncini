@@ -1,4 +1,4 @@
-# Olá! Eu sou Maike [(Maike-Simoncini)](https://github.com/Maike-Simoncini/Maike-Simoncini/tree/main) 👋 
+# Olá! Eu sou Maike [(Maike-Simoncini)](https://github.com/Maike-Simoncini) 👋 
 
 Sou Tecnólogo em Análise e Desenvolvimento de Sistemas, com uma base sólida em lógica de programação, arquitetura de software e bancos de dados. Estou em um processo de especialização focado em Cibersegurança, alinhando minha experiência em desenvolvimento com a proteção de sistemas.
 [Portfólio](https://maike-simoncini.github.io/Portfolio-Maike/)
@@ -18,3 +18,4 @@ Sou Tecnólogo em Análise e Desenvolvimento de Sistemas, com uma base sólida e
 ## 📌 Contato 
   
 <a href="https://www.linkedin.com/in/maike-simoncini-da-silva-9769b2287" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
