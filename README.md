@@ -1,44 +1,20 @@
-<h1 align="center">Olá, bem-vindo(a) ao meu perfil! 👋</h1>
+# Olá! Eu sou Maike [(Maike-Simoncini)](https://github.com/Maike-Simoncini/Maike-Simoncini/tree/main) 👋 
 
-<h3 align="center">Sou o Maike, um desenvolvedor com foco em soluções web, de front-end a back-end.</h3>
+Sou Tecnólogo em Análise e Desenvolvimento de Sistemas, com uma base sólida em lógica de programação, arquitetura de software e bancos de dados. Estou em um processo de especialização focado em Cibersegurança, alinhando minha experiência em desenvolvimento com a proteção de sistemas.
+[Portfólio](https://maike-simoncini.github.io/Portfolio-Maike/)
 
-<p align="center">
-  <img src="https://i.imgur.com/YKjM0ap.gif" alt="CL Thumb" width="90%">
-</p>
+## 🚀 Tecnologias
 
-  <p align="center">
-  <a href=mailto:maikesimoncinims@gmail.com target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a >
-<a href="https://maike-simoncini.github.io/Portfolio-Maike/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfólio"></a>
-  <a href="https://www.linkedin.com/in/maike-simoncini-da-silva-9769b2287" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></ um>
-  </p>
+<img src="https://skillicons.dev/icons?i=python,cpp,cs,html,css,js,mongodb,react,nodejs,mysql,postman,vscode,kali" alt="Tecnologias" />
 
----
+## 📊 Estatísticas do GitHub 
 
-<h2 align="center">Tecnologias 🚀</h2>
+<img height="200" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=Maike-Simoncini&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,python,js,cpp,mysql,cs,html,css,mongodb,nodejs" alt="Tecnologias" />
-</div>
+## 🛠️ Linguagens Mais Usadas
 
----
+<img height="200" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maike-Simoncini&layout=compact&langs_count=16&theme=tokyonight"/>
 
-<h2 align="center">Estatísticas 📊</h2>
-
-<div align="center">
-  <img height="200" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=Maike-Simoncini&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="200" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maike-Simoncini&layout=compact&langs_count=16&theme=tokyonight"/>
-</div>
-
----
-
-<h2 align="center">Contribuições 🛠️</h2>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Maike-Simoncini/Maike-Simoncini/output/snake.svg" alt="Snake animation" />
-</div>
-
----
-
-<p align="center">Obrigado por visitar meu perfil. Vamos construir algo incrível juntos! 🚀</p>
+## 📌 Contato 
+  
+<a href="https://www.linkedin.com/in/maike-simoncini-da-silva-9769b2287" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
