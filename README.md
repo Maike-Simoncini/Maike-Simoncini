@@ -18,3 +18,4 @@ Sou Tecnólogo em Análise e Desenvolvimento de Sistemas, com uma base sólida e
 ## 📌 Links 
   
 <a href="https://www.linkedin.com/in/maike-simoncini-da-silva-9769b2287" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href=mailto:maikesimoncinims@gmail.com target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
