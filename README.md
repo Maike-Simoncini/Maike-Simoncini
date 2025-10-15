@@ -1,6 +1,6 @@
 # Olá! Eu sou Maike [(Maike-Simoncini)](https://github.com/Maike-Simoncini) 👋 
 
-Sou Tecnólogo em Análise e Desenvolvimento de Sistemas, com uma base sólida em lógica de programação, arquitetura de software e bancos de dados. Estou em um processo de especialização focado em Cibersegurança, alinhando minha experiência em desenvolvimento com a proteção de sistemas.
+Tecnólogo em Análise e Desenvolvimento de Sistemas (UNINTER) com base sólida em Arquitetura de Software, Lógica de Programação e Banco de Dados. Recentemente, concluí o Bootcamp Santander - Cibersegurança 2025 (DIO), solidificando minha especialização em segurança e a transição para a mentalidade DevSecOps. Minhas competências complementares incluem Análise de Dados com Power BI e Inteligência Artificial (Prompt Engineering e Google Gemini), o que me permite construir soluções digitais que são eficientes, seguras e orientadas por dados.
 [Portfólio](https://maike-simoncini.github.io/Portfolio-Maike/)
 
 ## 🚀 Tecnologias
@@ -19,5 +19,6 @@ Sou Tecnólogo em Análise e Desenvolvimento de Sistemas, com uma base sólida e
   
 <a href="https://www.linkedin.com/in/maike-simoncini-da-silva-9769b2287" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href=mailto:maikesimoncinims@gmail.com target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+
 
 
