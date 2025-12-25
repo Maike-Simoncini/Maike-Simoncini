@@ -10,8 +10,11 @@ Com uma base sólida em **Arquitetura de Software**, **Lógica de Programação*
 * 🤖 **IA:** Experiência em Prompt Engineering e integração com Google Gemini.
 * 🛡️ **Security:** Mentalidade voltada para segurança desde a concepção do código.
 
-<a href="https://www.linkedin.com/in/maike-simoncini-da-silva-9769b2287" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="mailto: maikesimoncini.ms@gmail.com"><img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<br>
+
+<a href="https://www.linkedin.com/in/maike-simoncini-da-silva-9769b2287" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 
 ---
 
@@ -26,20 +29,22 @@ Com uma base sólida em **Arquitetura de Software**, **Lógica de Programação*
 
 ---
 
-### 📊 Estatísticas e Atividade
+### 📊 Estatísticas
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Maike-Simoncini&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maike-Simoncini&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Maike-Simoncini&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" alt="Estatísticas do GitHub" />
+  
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maike-Simoncini&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" alt="Linguagens mais usadas" />
 </div>
 
+<br>
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maike-Simoncini&theme=tokyonight" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maike-Simoncini&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Maike-Simoncini&theme=tokyo-night" width="100%" />
+  <p><i>"Transformando dados em segurança e código em soluções."</i></p>
 </div>
-
