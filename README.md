@@ -11,7 +11,7 @@ Com uma base sólida em **Arquitetura de Software**, **Lógica de Programação*
 * 🛡️ **Security:** Mentalidade voltada para segurança desde a concepção do código.
 
 <a href="https://www.linkedin.com/in/maike-simoncini-da-silva-9769b2287" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="mailto:seu-email@exemplo.com"><img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="mailto: maikesimoncini.ms@gmail.com"><img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 ---
 
@@ -42,3 +42,4 @@ Com uma base sólida em **Arquitetura de Software**, **Lógica de Programação*
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Maike-Simoncini&theme=tokyo-night" width="100%" />
 </div>
+
