@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="img.png" width="450" alt="Maike Simoncini Avatar">
+  <img src="img.png" width="100%" alt="Maike Simoncini Avatar">
 </p>
 
 # 🖖 Maike Simoncini
