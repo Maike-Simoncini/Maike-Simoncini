@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="img.png" width="100%" alt="Maike Simoncini Avatar" />
+<img src="imagem.png" width="100%" alt="Maike Simoncini Avatar" />
 <br />
   
 # Maike Simoncini da Silva
