@@ -3,7 +3,7 @@
 <img src="imagem.png" width="100%" alt="Maike Simoncini Avatar" />
 <br />
   
-# Maike Simoncini da Silva
+# Maike Simoncini
 
 ### **Tecnólogo em ADS | Especialista em IA, Dados & Defesa Cibernética**
 
